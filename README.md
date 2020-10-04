@@ -1,6 +1,9 @@
 # Semster-Project
 <h2> Banking App</h2>
-
+<h4> Mobile banking is a service provided by a bank that allows customer to conduct financial transactions <br>
+remotely using a mobile device. Mobile banking is ususlly available on a 24-hours. <br>
+Transactions through mobile banking depend on the features of mobile banking app with the help of this you can <br>
+send or receive money anytime or anyplace.</h4>
 <h2>Screens</h2>
 <ul>
   <li>Splash screen</li>

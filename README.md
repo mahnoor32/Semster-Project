@@ -24,4 +24,12 @@
   </tr></table>
   <h2>Login Screen</h2>
   <img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/Login.png" width="300" height="400" />
-  
+  <h2>Welcome Screen</h2>
+  <img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/Welcome.png" width="300" height="400" />
+  <h2>Send-Request Screen</h2>
+  <table>
+  <tr>
+    <td><img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/Send%20Request.png" width="300" height="400" /></td>
+    <td><img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/Sent.png" width="300" height="400" /></td>
+    <td><img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/Sent%20–%201.png" width="300" height="400" /></td>
+  </tr></table>

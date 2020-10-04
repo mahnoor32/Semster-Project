@@ -48,3 +48,7 @@
     <td><img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/Received.png" width="300" height="400" /></td>
     <td><img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/Received%20–%201.png" width="300" height="400" /></td>
   </tr></table>
+  <h2>About Screen</h2>
+  <img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/About%20Us.png" width="300" height="400" />
+  <h2>Help Screen</h2>
+  <img src="https://github.com/mahnoor32/Semster-Project/blob/master/Screenshot/Help.png" width="300" height="400" />
